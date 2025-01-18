@@ -1,16 +1,25 @@
-# myapp
+# Loyout Web
 
-A new Flutter project.
+Este é um aplicativo Flutter simples que apresenta um layout centralizado com containers estilizados ao redor de um container principal. O objetivo é demonstrar o uso de widgets como `Stack`, `Positioned` e `Container` para criar layouts responsivos e visualmente agradáveis.
 
-## Getting Started
+## Link da Página para acessar na Web
+- https://amandanvilalva.github.io/Layout-App-Responsivo/
 
-This project is a starting point for a Flutter application.
+## 💡 Funcionalidades
+- Container central estilizado com texto "App da Amanda".
+- Quatro containers circulares dispostos ao redor do container principal.
+- Gradientes de cores e sombreamento aplicados aos containers para um design mais atraente.
+- Layout responsivo utilizando widgets como `Stack` e `Column`.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias
+- **Flutter**: Framework utilizado para o desenvolvimento do aplicativo.
+- **Dart**: Linguagem de programação usada no projeto.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📄 Estrutura do Código
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **main.dart**: Contém o ponto de entrada do aplicativo e a estrutura principal.
+- **HomePage**: Tela principal do aplicativo com os containers estilizados.
+
+## ✨ Personalização
+- O layout é facilmente personalizável. Você pode alterar as cores, tamanhos ou até mesmo adicionar mais elementos ao layout conforme necessário.
+
